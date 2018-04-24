@@ -1,3 +1,5 @@
+#This init.sls file's code is  from Tero Karvinen's homesite http://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example (Tero Karvinen 2018)#
+
 apache2:
   pkg.installed
 
